@@ -2,7 +2,7 @@
 //  ViewController.h
 //  ShopWithFriends
 //
-//  Created by Matthew Nasiatka on 2/3/15.
+//  Created by Matthew Nasiatka on 2/10/15.
 //  Copyright (c) 2015 Georgia Tech. All rights reserved.
 //
 
